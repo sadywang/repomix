@@ -33,6 +33,8 @@
 It is perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude,
 ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 
+用于将整个代码仓库打包成适合 AI 处理的单一文件（纯文本、Markdown、XML），支持远程仓库地址和本地仓库。它通过内置的安全检查和代码压缩技术，能够有效减少输出文件的上下文令牌（token）数量，并确保不泄漏敏感信息。生成的文件可以方便地输入到 ChatGPT、Claude、Llama 等 AI 工具中，适用于代码审查、文档生成和测试用例编写等任务。
+
 ## 🎉 New: Repomix Website & Discord Community!
 
 - Try Repomix in your browser at [repomix.com](https://repomix.com/)
